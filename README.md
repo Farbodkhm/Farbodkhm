@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with ML Models<br>🌱 I’m currently learning Data Analysis and Machine Learning<br>💬 Ask me about Anything :)
+🤝 I’m looking for help with ML Models<br>🌱 I’m currently learning Data Analysis and Machine Learning<br>💬 Ask me about Anything!
 
 
 # 💻 Tech Stack:
