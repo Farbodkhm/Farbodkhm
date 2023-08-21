@@ -9,6 +9,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Farbodkhm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farbodkhm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+ <br>
+ <p align="center">  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Farbodkhm&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
